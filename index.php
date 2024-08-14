@@ -12,13 +12,13 @@
     
 <main>
     <form action= "includes/formhandler.php" method="post">
-        <lable for="firstname">firstname</lable>
-        <lable id="firstname" type="text" name="firstname" placeholder="firstname>
+        <label for="firstname">firstname</label>
+        <label id="firstname" type="text" name="firstname" placeholder="firstname>
 
-        <lable for="lastname">lastname</lable>
-        <lable id="lastname" type="text" name="lastname" placeholder="lastname>
+        <label for="lastname">lastname</label>
+        <label id="lastname" type="text" name="lastname" placeholder="lastname>
 
-        <lable for="gender">gender ?</lable>
+        <label for="gender">gender ?</label>
         <select id="gender"name="gender">
             <option value="none">none</option>
             <option value="male">male</option>
